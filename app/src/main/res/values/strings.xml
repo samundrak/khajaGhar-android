@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Zinger</string>
+    <string name="label_login">LOGIN</string>
+    <string name="hint_enter_phone_number">Enter phone number</string>
+    <string name="hint_enter_email">Enter email</string>
+    <string name="hint_enter_password">Enter password</string>
+    <string name="label_phone_number">Phone Number</string>
+    <string name="label_email_address">Email Address</string>
+    <string name="label_password">Password</string>
+    <string name="label_resend_otp">Resend OTP</string>
+    <string name="label_verify">Verify</string>
+    <string name="label_register"><u><b>Register</b></u></string>
+    <string name="label_update">Update</string>
+    <string name="hint_search_outlets_or_dish">Search Outlets or Dish</string>
+    <string name="label_cart">Cart</string>
+    <string name="label_pickup">Pickup</string>
+    <string name="label_delivery">Delivery</string>
+    <string name="label_to_pay">To Pay</string>
+    <string name="label_enter_delivery_location">Enter Delivery Location</string>
+    <string name="label_no_items_in_cart">No items in cart</string>
+    <string name="label_veg_only">Veg only</string>
+    <string name="label_search_outlets_or_dish">Search Outlets or Dish</string>
+    <string name="label_search_food">Search Food</string>
+    <string name="label_outlets">Outlets</string>
+    <string name="label_all_food">Available Khaja</string>
+    <string name="hint_feedback_optional">Feedback (Optional)</string>
+</resources>
